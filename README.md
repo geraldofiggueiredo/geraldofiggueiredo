@@ -76,7 +76,7 @@ My name is Geraldo J. A. Marra de Figueiredo; I’m 20 years old and was born an
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=in&logoColor=white"
         />
     </a>        
-    <a href="https://www.linkedin.com/in/geraldo-marra-figueiredo/">
+    <a href="https://www.instagram.com/geraldo_1.5/">
         <img
             src="https://custom-icon-badges.demolab.com/badge/-INSTAGRAM-F25278?style=for-the-badge&logo=instagram&logoColor=white"
         />
