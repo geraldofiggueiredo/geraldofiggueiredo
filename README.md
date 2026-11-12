@@ -70,21 +70,12 @@ My name is Geraldo J. A. Marra de Figueiredo; I’m 20 years old and was born an
 ---
 
 ### 📞 Contatos
-<p align="start">
-    <a href="https://www.linkedin.com/in/geraldo-marra-figueiredo/" style="text-decoration: none;">
-        <img
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=in&logoColor=white"
-        />
-    </a>        
-    <a href="https://www.instagram.com/geraldo_1.5/" style="text-decoration: none;">
-        <img
-            src="https://custom-icon-badges.demolab.com/badge/-INSTAGRAM-F25278?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>        
-        <img
-            src="https://custom-icon-badges.demolab.com/badge/-figgueiredo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-</p>    
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/geraldo-marra-figueiredo/"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=in&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/geraldo_1.5/"><img src="https://custom-icon-badges.demolab.com/badge/-INSTAGRAM-F25278?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:figgueiredo@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-figgueiredo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
