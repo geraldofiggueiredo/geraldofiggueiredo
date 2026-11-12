@@ -86,9 +86,17 @@ My name is Geraldo J. A. Marra de Figueiredo; I’m 20 years old and was born an
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=geraldofiggueiredo&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=geraldofiggueiredo&include_all_commits=true&theme=dark_github)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=geraldofiggueiredo&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=geraldofiggueiredo&langs_count=4&theme=dark_github)
-        
-
+<p>
+    <img 
+    align="left"
+    height="200"
+    style="padding-right: 10px"
+    src="https://github-stats-extended.vercel.app/api?username=geraldofiggueiredo&include_all_commits=true&theme=dark_github"
+    />
+    <img
+    align="left"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=geraldofiggueiredo&langs_count=4&theme=dark_github"
+    />
+<p/>
           
